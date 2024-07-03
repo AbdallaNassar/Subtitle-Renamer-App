@@ -23,6 +23,7 @@ This application automates the renaming process of subtitle files (.srt, .sub, e
    ```bash
    git clone https://github.com/AbdallaNassar/Subtitle-Renamer-App.git
    cd Subtitle-Renamer-App
+   Run renamer_gui.py
 2.  Install dependencies:
     
     ```bash
