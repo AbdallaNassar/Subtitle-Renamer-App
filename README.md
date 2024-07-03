@@ -43,7 +43,6 @@ This application automates the renaming process of subtitle files (.srt, .sub, e
 
 ### Contact
 
-*   GitHub: [AbdallaNassar](https://github.com/AbdallaNassar)
 *   Website: [abdallanassar.me](https://abdallanassar.me)
 
 * * *
